@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "vaira durai"
+    },
+    {
+      "id": 2,
+      "name": "diamond"
+    },
+    {
+      "id": 3,
+      "name": "durai"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "fist comment"
+    },
+    {
+      "id": 2,
+      "body": "second comment"
+    },
+    {
+      "id": 3,
+      "body": "third comment"
+    }
+  ],
+  
+  "profile": [
+    {
+      "id": 1,
+      "body": "facebook"
+    },
+    {
+      "id": 2,
+      "body": "instagram"
+    },
+    {
+      "id": 3,
+      "body": "snap chart"
+    }
+  ]
+}
+
